@@ -18,3 +18,8 @@
 * Task 15: A script for moving files beginning with an uppercase letter
 * Task 16: A script that deletes all files that end with ~ in current directory
 * Task 17: A script to create multiple directories using one line
+* Task 18: A script that lists files and directories of current directory, separated by commas
+ - Directory names should end with a slash
+ - Files and directories starting with a dot should be listed
+ - The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning
+ - Only digits and letters are used to sort: Digits should come first

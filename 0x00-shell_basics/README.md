@@ -13,4 +13,5 @@
 * Task 10: A script that changes the working directory to the previous one
 * Task 11: A script that lists ALL files in the current and parent directory as well as in boot
 * Task 12: A script for printing file type
+* Task 13: A script for creating symbolic links
 

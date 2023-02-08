@@ -16,4 +16,5 @@
 * Task 13: A script for creating symbolic links
 * Task 14: A script that copies all HTML files from the current working directory to its parent directory, only files missing in parent directory
 * Task 15: A script for moving files beginning with an uppercase letter
+* Task 16: A script that deletes all files that end with ~ in current directory
 

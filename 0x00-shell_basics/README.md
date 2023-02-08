@@ -11,4 +11,5 @@
 * Task 8: A script for deleting a file
 * Task 9: A script for deleting a directory
 * Task 10: A script that changes the working directory to the previous one
+* Task 11: A script that lists ALL files in the current and parent directory as well as in boot
 

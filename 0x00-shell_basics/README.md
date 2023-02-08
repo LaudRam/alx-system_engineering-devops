@@ -7,4 +7,4 @@
 * Task 4: A script that displays current directory contents, including hidden files
 * Task 5: A script that displays directory contents, long format with IDs including hidden files
 * Task 6: A script that creates a directory in a directory
-
+* Task 7: A script to move a file between directories

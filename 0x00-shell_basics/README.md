@@ -9,4 +9,5 @@
 * Task 6: A script that creates a directory in a directory
 * Task 7: A script for moving a file between directories
 * Task 8: A script for deleting a file
+* Task 9: A script for deleting a directory
 

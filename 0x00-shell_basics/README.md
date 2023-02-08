@@ -10,4 +10,5 @@
 * Task 7: A script for moving a file between directories
 * Task 8: A script for deleting a file
 * Task 9: A script for deleting a directory
+* Task 10: A script that changes the working directory to the previous one
 

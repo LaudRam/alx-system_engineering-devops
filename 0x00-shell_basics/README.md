@@ -14,4 +14,4 @@
 * Task 11: A script that lists ALL files in the current and parent directory as well as in boot
 * Task 12: A script for printing file type
 * Task 13: A script for creating symbolic links
-
+* Task 14: A script that copies all HTML files from the current working directory to its parent directory, only files missing in parent directory

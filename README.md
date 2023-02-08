@@ -15,4 +15,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * What is the shell prompt
 * How to use the history (the basics)
 
-### As well as; Navigation, Looking around, Manipulating files, working with commands, reading Man pagess, keyboard shortcuts on Bash and LTS
+### As well as: Navigation, Looking around, Manipulating files, working with commands, reading Man pagess, keyboard shortcuts on Bash and LTS

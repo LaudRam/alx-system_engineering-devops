@@ -12,4 +12,6 @@
 * Task 9: Sets the mode of file hello to: rwxr-x-wx
 * Task 10: Sets the mode of file hello the same as the mode of file olleh
 * Task 11: Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
+* Task 12: Creates a directory called my_dir with permissions 751 in the working directory
+* Task 13: Changes the group owner to school for file hello
 

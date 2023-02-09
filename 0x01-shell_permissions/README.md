@@ -16,4 +16,5 @@
 * Task 13: Changes the group owner to school for file hello
 * Task 14: Changes the owner to vincent and the group owner to staff for all files and directories in the working directory
 * Task 15: Changes the owner and group owner of file _hello to vincent and staff respectively, NB. _hello is a symbolic link
-
+* Task 16: Changes the owner of the file hello to betty only if it is owned by user guillaume
+* Task 17: Plays the StarWars IV episode in the terminal

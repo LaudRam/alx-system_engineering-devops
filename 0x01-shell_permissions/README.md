@@ -11,4 +11,5 @@
 * Task 8: Sets no owner and group permissions, only other users get all permissions to file hello
 * Task 9: Sets the mode of file hello to: rwxr-x-wx
 * Task 10: Sets the mode of file hello the same as the mode of file olleh
+* Task 11: Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 

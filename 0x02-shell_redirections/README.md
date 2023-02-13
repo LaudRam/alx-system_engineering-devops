@@ -23,4 +23,7 @@
 * Task 20: Removes all c and C letters
 * Task 21: Reverses inputs
 * Task 22: Displays all users and their home directories, sorted by user
-
+* Task 23: Finds all empty files and directories in the current directory. only the names should be displayed, hidden files should be listed, 1 file name per line, list should end with new line
+* Task 24: Lists all files with .gif extension in current directory, include hidden files, display only names, sort by byte values, 1 file per line, list should end with new line
+* Task 25: Decodes acrostics that use the first letter of each line, decoded message to end with new line
+* Task 26: Parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the mist requests, order by number of requests, most to least

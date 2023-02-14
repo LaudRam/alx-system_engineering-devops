@@ -1,4 +1,4 @@
-#What each script is doing
+# What each script is doing
 
 * Task 0: Prints "Hello, World"
 * Task 1: Displays a confused smiley "(Ôo)'

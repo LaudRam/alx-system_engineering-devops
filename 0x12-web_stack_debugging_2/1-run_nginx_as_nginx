@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#Configures container to run nginx as nginx user listening on 8080 port
+new_user="user nginx;"
+old_user="#user www-data;"
+sed -i "s/$old_user/$new_user/" /etc/nginx/nginx.conf
+sed -i "s/80/8080/" /etc/nginx/sites-available/default
+chmod 644 /etc/nginx/nginx.conf
+chown -R nginx /etc/nginx/nginx.conf
+chgrp -R nginx /etc/nginx/nginx.conf
+pkill apache2
+sudo -u nginx /usr/sbin/service nginx start

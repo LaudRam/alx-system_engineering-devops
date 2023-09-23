@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""Exports to-do list information for a given employee ID to JSON format."""
+'''
+    Extends Python script from "0-gather_data_from_an_API.py"
+    to export data in JSON format
+'''
 import json
 import requests
 import sys

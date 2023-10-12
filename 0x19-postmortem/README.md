@@ -1,4 +1,4 @@
-# Postmortem
+# [Postmortem](https://docs.google.com/document/d/1hzbDeyvupuR1kXaITBtLUkd3wPjpH-WxFL9wG4UmPi4/edit?usp=sharing)
 This is the general structure I followed:
 ## Issue Summary (that is often what executives will read) must contain:
 - duration of the outage with start and end times (including timezone)
